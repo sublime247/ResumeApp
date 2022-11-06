@@ -1,6 +1,6 @@
 A simple ResumeApp built using flutter.
 It shows what I'm capable of doing and also My personalities(About ME).
-I link my Social handle to in the Application. you can reach out to me via the app.
+I link my Social handle to the Application. you can reach out to me via the app.
 Make used of Webview package to view my social handles.
 
 
